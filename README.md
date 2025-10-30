@@ -46,7 +46,7 @@ Please follow these steps:
 <a href="/Documentation/screen1.png"><img src="/Documentation/screen1.png?raw=true" alt="Screenshot of Actions secrets" width="800"></a>  
   `KEY_ALIAS`, `KEY_PASSWORD`, `STORE_FILE`, `STORE_PASSWORD`. 
 * Trigger build in Github Actions
-* Download the `aaps.zip` file in `Artifacts`
+* Download the `aaps.zip` file in `Artifacts` 
 
 ### 如果你不熟悉安卓开发：
 你需要获取安卓签名文件的密码等信息，因安全原因，这些敏感信息不能公开发布于此。
